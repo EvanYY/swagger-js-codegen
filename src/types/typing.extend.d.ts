@@ -1,5 +1,3 @@
-declare namespace typing.run{
-    interface PageModel{
-        
-    }
+declare namespace typing.run {
+  interface PageModel {}
 }
