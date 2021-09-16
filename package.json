@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "EvanYY",
+    "name": "evan-yy",
     "email": "evan_yangyang@163.com",
     "url": "https://github.com/EvanYY"
   },
@@ -8,7 +8,7 @@
     "swagger2js": "bin/swagger2js.js"
   },
   "bugs": {
-    "url": "https://github.com/wcandillon/swagger-js-codegen/issues"
+    "url": "https://github.com/EvanYY/swagger-js-codegen/issues"
   },
   "dependencies": {
     "chance": "^1.1.0",
@@ -44,17 +44,17 @@
     "typescript": "^2.9.2",
     "vows": "^0.8.2"
   },
-  "homepage": "https://github.com/wcandillon/swagger-js-codegen",
+  "homepage": "https://github.com/EvanYY/swagger-js-codegen",
   "keywords": [
     "swagger",
     "rest"
   ],
   "license": "Apache-2.0",
   "main": "./lib/codegen.js",
-  "name": "@byteluck/swagger-js-codegen",
+  "name": "@evan-yy/swagger-js-codegen",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wcandillon/swagger-js-codegen.git"
+    "url": "git@github.com:EvanYY/swagger-js-codegen.git"
   },
   "scripts": {
     "build-datahub": "./bin/swagger2js.js gen ./json/swagger-datapub.json",
