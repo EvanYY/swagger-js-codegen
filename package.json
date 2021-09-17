@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "evan-yy",
+    "name": "evan_yy",
     "email": "evan_yangyang@163.com",
     "url": "https://github.com/EvanYY"
   },
@@ -51,7 +51,7 @@
   ],
   "license": "Apache-2.0",
   "main": "./lib/codegen.js",
-  "name": "@evan-yy/swagger-js-codegen",
+  "name": "evan-yy-swagger-js-codegen",
   "repository": {
     "type": "git",
     "url": "git@github.com:EvanYY/swagger-js-codegen.git"
@@ -63,5 +63,5 @@
     "test": "grunt",
     "unittest": "jest"
   },
-  "version": "1.1.0"
+  "version": "2.2.1"
 }
